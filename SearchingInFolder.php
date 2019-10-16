@@ -94,7 +94,3 @@ function replaceFile($origin, $replacenName){
 		
 }
 ?>
-
-<script>
-abc
-</script>
